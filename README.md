@@ -24,6 +24,6 @@
 
 
 ## GitHub Stats 📊
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=icaroryan&show_icons=true&theme=dark&count_private=true)
+![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=icaroryan&show_icons=true&theme=dark&count_private=true)
 
 
