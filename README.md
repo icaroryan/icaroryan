@@ -1,4 +1,4 @@
-# <h1> Hi there, I'm Icaro Ryan! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1> 
+# <h1> Hi there, I'm Icaro Ryan! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"></h1> 
 
 [![Website](https://img.shields.io/badge/icaroryan.com-000000?style=for-the-badge&logo=hyper&logoColor=white)](https://icaroryan.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/icaroryan/)
