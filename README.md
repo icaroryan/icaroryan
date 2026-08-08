@@ -6,9 +6,7 @@
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=00B4D8&color:FFF)](mailto:contact@icaroryan.com)
 [![Website](https://img.shields.io/badge/icaroryan.com-000?style=for-the-badge&logo=hyper&logoColor=00B4D8&color:FFF)](https://icaroryan.com)
 
-### GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=icaroryan&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide=prs&line_height=25&bg_color=000&title_color=00B4D8&text_color=FFF&border_radius=3&border_color=00B4D8&icon_color=00B4D8)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/icaroryan/icaroryan/output/github-contribution-grid-snake-dark.svg">
